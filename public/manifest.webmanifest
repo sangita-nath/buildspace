@@ -1,0 +1,18 @@
+{
+  "name": "BuildSpace",
+  "short_name": "BuildSpace",
+  "description": "A workspace for planning projects, tracking tasks, and keeping development notes organized.",
+  "start_url": "/buildspace/",
+  "scope": "/buildspace/",
+  "display": "standalone",
+  "background_color": "#0f172a",
+  "theme_color": "#0f172a",
+  "icons": [
+    {
+      "src": "/buildspace/icon.svg",
+      "sizes": "128x128",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
